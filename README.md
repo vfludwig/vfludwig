@@ -1,1 +1,5 @@
-
+- 👋 Hi, I’m Victoria Ludwig! @vfludwig
+- 🎮 I’m interested in video games, software development, and cats!
+- 🌱 Currently learning Typescript
+- 💞️ I’m open to collaborate on anything relevant to me or my interests!
+- 📧 Feel free to email me :)
